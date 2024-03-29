@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 121638534
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c2863652838a59a0a794c950d5fb748
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Audio/AddScore02.wav
+- Assets/Art/Audio/Jump01.wav
+- Assets/Art/Audio/AddScore01.wav
+- Assets/Art/Audio/AddScore03.wav
+- Assets/Art/Audio/Die.wav
+- Assets/Art/Audio/Jump02.wav
+Dependencies: []

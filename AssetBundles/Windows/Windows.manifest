@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 2556271621
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: uigameover_prefab
+      Dependencies: {}
+    Info_1:
+      Name: uigamepanel_prefab
+      Dependencies: {}
+    Info_2:
+      Name: audio
+      Dependencies: {}
